@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vg-web-studio.vercel.app/sitemap.xml
